@@ -1,0 +1,10 @@
+D:\Documents and Settings\JustChris\My Documents\XNA Projects\StateMachineXNA\StateMachineXNA\StateMachineXNA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\JustChris\My Documents\XNA Projects\StateMachineXNA\StateMachineXNA\StateMachineXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents and Settings\JustChris\My Documents\XNA Projects\StateMachineXNA\StateMachineXNA\StateMachineXNA\bin\x86\Debug\Content\Images\Ball.xnb
+D:\Documents and Settings\JustChris\My Documents\XNA Projects\StateMachineXNA\StateMachineXNA\StateMachineXNA\bin\x86\Debug\Content\Images\Puppy.xnb
+D:\Documents and Settings\JustChris\My Documents\XNA Projects\StateMachineXNA\StateMachineXNA\StateMachineXNA\bin\x86\Debug\Content\Images\SleepingMat.xnb
+D:\Documents and Settings\JustChris\My Documents\XNA Projects\StateMachineXNA\StateMachineXNA\StateMachineXNA\bin\x86\Debug\StateMachineXNA.exe
+D:\Documents and Settings\JustChris\My Documents\XNA Projects\StateMachineXNA\StateMachineXNA\StateMachineXNA\bin\x86\Debug\StateMachineXNA.pdb
+D:\Documents and Settings\JustChris\My Documents\XNA Projects\StateMachineXNA\StateMachineXNA\StateMachineXNA\obj\x86\Debug\StateMachineXNA.exe
+D:\Documents and Settings\JustChris\My Documents\XNA Projects\StateMachineXNA\StateMachineXNA\StateMachineXNA\obj\x86\Debug\StateMachineXNA.pdb
+D:\Documents and Settings\JustChris\My Documents\XNA Projects\StateMachineXNA\StateMachineXNA\StateMachineXNA\bin\x86\Debug\Content\Arial.xnb
